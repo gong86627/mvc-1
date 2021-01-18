@@ -1,0 +1,13 @@
+#main{
+    display: flex;
+    flex-wrap:wrap;
+}
+section{
+    width:50vw;
+    height:50vh;
+    border:1px solid red;
+}
+
+ol, ul{
+    list-style: none;
+}

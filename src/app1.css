@@ -1,0 +1,19 @@
+#app1{
+
+}
+
+#app1 > .output{
+    font-size: 25px;
+    line-height: 25px;
+    padding: 4px;
+}
+
+#app1 > .actions{
+    display: flex;
+    padding:4px;
+}
+
+#app1 > .actions > button{
+    padding:4px 10px;
+    margin-right: 10px;
+}
