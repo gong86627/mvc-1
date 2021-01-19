@@ -1,3 +1,6 @@
+body{
+    overflow: hidden;
+}
 #main{
     display: flex;
     flex-wrap:wrap;
@@ -5,7 +8,7 @@
 section{
     width:50vw;
     height:50vh;
-    border:1px solid red;
+    border:1px solid grey;
 }
 
 ol, ul{
